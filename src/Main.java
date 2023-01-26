@@ -11,6 +11,7 @@ public class Main {
 
 
     }
+    //Задача 1
     public static void task1(){
         System.out.println("Задача 1");
 
@@ -21,6 +22,7 @@ public class Main {
         var paper = 763789;
         System.out.println(paper);
     }
+    // Задача 2
     public static void task2(){
         System.out.println("Задача 2");
         var dog = 8;
@@ -35,6 +37,7 @@ public class Main {
 
 
     }
+    //Задача 3
 public static void task3(){
     System.out.println("Задача 3");
     var dog = 8.0;
@@ -48,6 +51,7 @@ public static void task3(){
     System.out.println(paper);
 
 }
+//Задача 4
 public static void task4(){
     System.out.println("Задача 4");
     var friend = 19;
@@ -57,6 +61,7 @@ public static void task4(){
     friend = friend / 7;
     System.out.println(friend);
 }
+//Задача 5
 public static void task5(){
     System.out.println("Задача 5");
     var frog = 3.5;
@@ -68,6 +73,7 @@ public static void task5(){
     frog = frog + 4;
     System.out.println(frog);
 }
+//Задача 6
 public static void task6() {
     System.out.println("Задача 6");
     var boxer1 = 78.2;
@@ -77,6 +83,7 @@ public static void task6() {
     var diffWeight = boxer2 - boxer1;
     System.out.println("Разница веса бойцов " + diffWeight + " кг!");
 }
+//Задача 7
 public static void task7(){
     System.out.println("Задача 7");
     var boxer1 = 78.2;
@@ -86,6 +93,7 @@ public static void task7(){
     diffWeight = boxer2 % boxer1;
     System.out.println("Разница веса боксёров " + diffWeight + " кг!");
 }
+//Задача 8
 public static void task8(){
     System.out.println("Задача 8");
     var totalTime = 640;
